@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20200607-1950-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="hedmon-HP-EliteBook-Folio-9470m"
+	OSRelease="5.4.0-33-generic"
+	OSVersion="#37-Ubuntu SMP Thu May 21 12:53:59 UTC 2020"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="58"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1375"
+	TotalPhysicalMemory="7824"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2998.69"
+	>
+	<Testing>
+		<StartDateTime>Jun 07 13:50 CST</StartDateTime>
+		<StartTestTime>1591559451</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>/home/hedmon/Desktop/TDD/Test/build/test/ExampleTests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00707957</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/hedmon/Desktop/TDD/Test/build/test/ExampleTests</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUU1rwkAQve+vmKNCzUYpCIEepIml0EoxKT0EKWsck6X7kWZ31f77JiZIY1txTsPMm3nvzSydUlzlIBlXgyFsKy2BFloiLXAjtaIhmg+rS5qEIU3QWJprnQu0Z6mpMpo32Xuzycsykt6dYgXLjmYMDaal6XLjuEWPpKNTrOBB6DUTbR/VjldaSVQ1Fu3IlWfgnzujA5OlwEaoISksXxdwjFWv4z3P7slll0dTvZmsLIPJbQBzxoWrkESHEjOLG8BPxwS3X6C3YAs0CDsmHJqAAGAHWuA+dpI0Ut4KnhXATQDT6aSumF/1se/X2mE+e3yKwr+0w8AHaYbXnaEFg9WWiSG57s4WWTXa6L3qf/G/70HFlNfnqfW/zOK41e8fscbru2o33IDgpjnjGoXeB5eNE1JPde0kihPyDUSq3T4=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jun 07 13:50 CST</EndDateTime>
+		<EndTestTime>1591559451</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20200602-2158-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="hedmon-HP-EliteBook-Folio-9470m"
+	OSRelease="5.4.0-33-generic"
+	OSVersion="#37-Ubuntu SMP Thu May 21 12:53:59 UTC 2020"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="58"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="1375"
+	TotalPhysicalMemory="7824"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2612.53"
+	>
+	<Testing>
+		<StartDateTime>Jun 02 17:12 CST</StartDateTime>
+		<StartTestTime>1591139545</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTests</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTests</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTests</FullName>
+			<FullCommandLine>/home/hedmon/Desktop/TDD/Test/build/test/ExampleTests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00324516</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/hedmon/Desktop/TDD/Test/build/test/ExampleTests</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUMFOwzAMvecrfFwPTeADOCBl2gHBpm6cqgqFzusqErtKUuDzacg00UlIfSfLfvbze9VI1FMHzvS0KuDk2YE6s0N1xqNjUhrDR+RBHbRWBwxRdcydxXhTBt+qLlVv6ZJsW1E/XNFAdZG5h8TJMpc6jH1EKeryigY2lt+NzXOkz94zOaSJi7Echxvy35vrb+MGi+nRIGqoXl/gF81sIjVO1kL0JuImdZ5N6zktZGyfli3A6g5cKJa9k8kQORpbiGV+IxpfHvmL5mn+lyJ4Q3KuM1naPe73a50yyFwpfgDVe6GG====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jun 02 17:12 CST</EndDateTime>
+		<EndTestTime>1591139545</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

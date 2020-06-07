@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/hedmon/Desktop/TDD/Test/build",
+  "command": "/usr/bin/g++-9    -O2 -g -DNDEBUG -fPIC   -o CMakeFiles/Example.dir/Example.cpp.o -c /home/hedmon/Desktop/TDD/Test/Example.cpp",
+  "file": "/home/hedmon/Desktop/TDD/Test/Example.cpp"
+},
+{
+  "directory": "/home/hedmon/Desktop/TDD/Test/build/googletest/googlemock",
+  "command": "/usr/bin/g++-9   -isystem /home/hedmon/Desktop/TDD/Test/googletest/googlemock/include -isystem /home/hedmon/Desktop/TDD/Test/googletest/googlemock -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest/include -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest  -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/hedmon/Desktop/TDD/Test/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/hedmon/Desktop/TDD/Test/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/hedmon/Desktop/TDD/Test/build/googletest/googlemock",
+  "command": "/usr/bin/g++-9   -I/home/hedmon/Desktop/TDD/Test/googletest/googlemock/include -I/home/hedmon/Desktop/TDD/Test/googletest/googlemock -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest/include -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest  -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/hedmon/Desktop/TDD/Test/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/hedmon/Desktop/TDD/Test/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/hedmon/Desktop/TDD/Test/build/googletest/googletest",
+  "command": "/usr/bin/g++-9   -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest/include -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest  -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/hedmon/Desktop/TDD/Test/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/hedmon/Desktop/TDD/Test/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/hedmon/Desktop/TDD/Test/build/googletest/googletest",
+  "command": "/usr/bin/g++-9   -I/home/hedmon/Desktop/TDD/Test/googletest/googletest/include -I/home/hedmon/Desktop/TDD/Test/googletest/googletest  -O2 -g -DNDEBUG -fPIC   -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/hedmon/Desktop/TDD/Test/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/hedmon/Desktop/TDD/Test/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/hedmon/Desktop/TDD/Test/build/test",
+  "command": "/usr/bin/g++-9   -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest/include -isystem /home/hedmon/Desktop/TDD/Test/googletest/googletest  -O2 -g -DNDEBUG -fPIE   -o CMakeFiles/ExampleTests.dir/ExampleTests.cpp.o -c /home/hedmon/Desktop/TDD/Test/test/ExampleTests.cpp",
+  "file": "/home/hedmon/Desktop/TDD/Test/test/ExampleTests.cpp"
+}
+]
